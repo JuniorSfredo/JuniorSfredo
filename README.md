@@ -6,7 +6,7 @@ const Junior = {
   role: "Computer Science Student",
   location: "Brazil",
   status: "Available for conversations and networking!",
-  graduationYear: 2026,
+  graduationYear: 2027,
   availableForFreelance: true
 };
 ```
