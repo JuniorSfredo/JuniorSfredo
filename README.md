@@ -24,6 +24,6 @@ const Junior = {
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="40" height="40" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/redis.png" alt="Redis" width="40" height="40" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/aws.png" alt="Redis" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="Redis" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" width="40" height="40" />
 </p>
